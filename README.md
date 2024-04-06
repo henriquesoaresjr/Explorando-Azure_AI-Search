@@ -4,7 +4,7 @@
 Neste Artigo, vou mostrar um pouco de como foi usar o Azure AI Search Index para configurar uma pesquisa baseada em dados fornecidos. Vou buscar passar um pouco dessa atividade para voces, os insights e possibilidades com essa ferramenta incrivel do Azure. Deixarei no final do artigo o link da documentação oficial dessa atividade, disponibilizado pela Microsoft Learning, a pagina esta em inglês, mas voce pode usar o recurso de tradução do seu navegador de internet caso voce precise.
 
 ## Criando recursos
-Para essa atividade, é necessario três recursos do Azure: o Azure AI Search, Azure AI services, e Azure storage accoun. Vou procurar explicar como cria-los tambem ao longo desse artigo.
+Para essa atividade, é necessario três recursos do Azure: o Azure AI Search, Azure AI services, e Azure storage account. Vou procurar explicar como cria-los tambem ao longo desse artigo.
 
 # Azure AI Search
 Para criar um recurso de pesquisa, no [Portal Azure](https://portal.azure.com/#home), selecione a opção de criar um recurso, e na barra de pesquisa procure por Azure AI Search, e clique em criar.
